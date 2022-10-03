@@ -1,4 +1,5 @@
 """Median calculator."""
+
 """ENTER YOUR SOLUTION HERE!"""
 
 while True:
